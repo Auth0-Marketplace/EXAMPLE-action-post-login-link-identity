@@ -17,7 +17,7 @@ The external service needs to maintain an endpoint `/v2/link-identity` on the ba
 1. Read the necessary access requirements and click **Continue**.
 1. Configure the integration using the following fields:
    * **API Key** - The API key used to call the external service.
-   * **API Base URL** - The base URL of the the external service. Defaults to `https://api.example.com/`.
+   * **API Base URL** - The base URL of the external service. Defaults to `https://api.example.com/`.
 1. Click **Create** to add the integration to your Library.
 1. Click the **Add to flow** link on the pop-up that appears.
 1. Drag the Action into the desired location in the flow.
