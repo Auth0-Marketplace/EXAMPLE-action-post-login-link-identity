@@ -1,3 +1,6 @@
+# This repository has been ARCHIVED
+The example has moved into the [Post Login Action Template Repository](https://github.com/Auth0-Marketplace/TEMPLATE-action-post-login/tree/main/examples)
+
 # Link External Identity Example Action Integration
 
 This repo contains an example for an Action that sends Auth0 profile data to a generic service with an intent to link an identity in that service with one from Auth0. The code in this repo is meant to be used as a starting point for an Action integration with a similar purpose and should not be used as-is in production. 
